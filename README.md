@@ -3,7 +3,6 @@
 ### Personal Information
 - 📍  London Based
 - 🎓 BEng (Hons) Electronic and Electrical Engineering
-- 📅 Training Started : 21/09/2020
 - ⚡ Fun fact: ...
 
 ### Tehcnical Skills
