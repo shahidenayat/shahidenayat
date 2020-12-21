@@ -1,4 +1,4 @@
-### Hi👋, I am Shahid Enayat, a Java Developer Trainee Consultant at Sparta Global
+### Hi👋, I am Shahid Enayat
 
 ### Personal Information
 - 📍  London Based
